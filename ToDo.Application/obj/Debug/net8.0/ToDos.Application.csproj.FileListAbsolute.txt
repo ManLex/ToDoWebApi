@@ -1,0 +1,11 @@
+E:\Project\ToDoWebApi\ToDoWebApi\ToDo.Application\bin\Debug\net8.0\ToDos.Application.deps.json
+E:\Project\ToDoWebApi\ToDoWebApi\ToDo.Application\bin\Debug\net8.0\ToDos.Application.dll
+E:\Project\ToDoWebApi\ToDoWebApi\ToDo.Application\bin\Debug\net8.0\ToDos.Application.pdb
+E:\Project\ToDoWebApi\ToDoWebApi\ToDo.Application\obj\Debug\net8.0\ToDos.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\ToDoWebApi\ToDoWebApi\ToDo.Application\obj\Debug\net8.0\ToDos.Application.AssemblyInfoInputs.cache
+E:\Project\ToDoWebApi\ToDoWebApi\ToDo.Application\obj\Debug\net8.0\ToDos.Application.AssemblyInfo.cs
+E:\Project\ToDoWebApi\ToDoWebApi\ToDo.Application\obj\Debug\net8.0\ToDos.Application.csproj.CoreCompileInputs.cache
+E:\Project\ToDoWebApi\ToDoWebApi\ToDo.Application\obj\Debug\net8.0\ToDos.Application.dll
+E:\Project\ToDoWebApi\ToDoWebApi\ToDo.Application\obj\Debug\net8.0\refint\ToDos.Application.dll
+E:\Project\ToDoWebApi\ToDoWebApi\ToDo.Application\obj\Debug\net8.0\ToDos.Application.pdb
+E:\Project\ToDoWebApi\ToDoWebApi\ToDo.Application\obj\Debug\net8.0\ref\ToDos.Application.dll

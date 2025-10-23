@@ -1,0 +1,11 @@
+E:\Project\ToDoWebApi\ToDoWebApi\ToDos.Domain\bin\Debug\net8.0\ToDos.Domain.deps.json
+E:\Project\ToDoWebApi\ToDoWebApi\ToDos.Domain\bin\Debug\net8.0\ToDos.Domain.dll
+E:\Project\ToDoWebApi\ToDoWebApi\ToDos.Domain\bin\Debug\net8.0\ToDos.Domain.pdb
+E:\Project\ToDoWebApi\ToDoWebApi\ToDos.Domain\obj\Debug\net8.0\ToDos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\ToDoWebApi\ToDoWebApi\ToDos.Domain\obj\Debug\net8.0\ToDos.Domain.AssemblyInfoInputs.cache
+E:\Project\ToDoWebApi\ToDoWebApi\ToDos.Domain\obj\Debug\net8.0\ToDos.Domain.AssemblyInfo.cs
+E:\Project\ToDoWebApi\ToDoWebApi\ToDos.Domain\obj\Debug\net8.0\ToDos.Domain.csproj.CoreCompileInputs.cache
+E:\Project\ToDoWebApi\ToDoWebApi\ToDos.Domain\obj\Debug\net8.0\ToDos.Domain.dll
+E:\Project\ToDoWebApi\ToDoWebApi\ToDos.Domain\obj\Debug\net8.0\refint\ToDos.Domain.dll
+E:\Project\ToDoWebApi\ToDoWebApi\ToDos.Domain\obj\Debug\net8.0\ToDos.Domain.pdb
+E:\Project\ToDoWebApi\ToDoWebApi\ToDos.Domain\obj\Debug\net8.0\ref\ToDos.Domain.dll

@@ -1,0 +1,5 @@
+E:\Project\ToDoWebApi\ToDoWebApi\ToDo.Persistence\obj\Debug\net8.0\ToDos.Persistence.csproj.AssemblyReference.cache
+E:\Project\ToDoWebApi\ToDoWebApi\ToDo.Persistence\obj\Debug\net8.0\ToDos.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\ToDoWebApi\ToDoWebApi\ToDo.Persistence\obj\Debug\net8.0\ToDos.Persistence.AssemblyInfoInputs.cache
+E:\Project\ToDoWebApi\ToDoWebApi\ToDo.Persistence\obj\Debug\net8.0\ToDos.Persistence.AssemblyInfo.cs
+E:\Project\ToDoWebApi\ToDoWebApi\ToDo.Persistence\obj\Debug\net8.0\ToDos.Persistence.csproj.CoreCompileInputs.cache
