@@ -5,7 +5,7 @@ Main objectives
 -
 -
 
-1 Step
+1 Step:
 Develop a project architecture with three subdirectories: Сore, infrastructure, and Presentation.
 Presentation will accept WepApi and transfer it to the core.
 Infrastructure will work with the database.
